@@ -1,0 +1,8 @@
+{
+  "name": "martech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lorencianodramayo/martechgrp.git",
+  "author": "<lorencianodramayo@gmail.com>",
+  "license": "MIT"
+}
